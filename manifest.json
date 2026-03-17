@@ -2,12 +2,12 @@
     "name":"Zakaria",
     "icons":[
   {
-    "src":"/photo.png",
+    "src":"/photo 192px.png",
     "sizes":"192x192",
     "type":"image/png"
   },
   {
-    "src":"/photo.png",
+    "src":"/photo 512px.png",
     "sizes":"512x512",
     "type":"image/png"
   }
